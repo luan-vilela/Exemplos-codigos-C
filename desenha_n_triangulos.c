@@ -1,8 +1,18 @@
-    // Código desenvolvido por Luan Vilela     26/11/2020
-    // https://github.com/luan-vilela/Exemplos-c-digos-C
-    // License MIT - Free Software
 /*
+ *   Código desenvolvido por Luan Vilela     26/11/2020
+ *   https://github.com/luan-vilela/Exemplos-c-digos-C
+ *   License MIT - Free Software
+ *
  * Esse código Recebe um N inteiro e desenha N triângulos na mesma linha 
+ * 
+ *       EXEMPLO DE FUNCIONAMENTO:
+ *       Digite N: 6
+ *
+ *       *       *       *       *       *       *
+ *       **      **      **      **      **      **
+ *       ***     ***     ***     ***     ***     ***
+ *       ****    ****    ****    ****    ****    ****
+ *       *****   *****   *****   *****   *****   *****
 */
 
 #include <stdio.h>
